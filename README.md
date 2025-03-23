@@ -3,9 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Elif Aşık</h1>
-<h3 align="center">Computer Engineering Student | Iskenderun Teknik Universty</h3>
+<h3 align="center">Computer Engineering Student | Iskenderun Teknik University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elifasik1&label=Profile%20views&color=0e75b6&style=flat" alt="elifasik1" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
