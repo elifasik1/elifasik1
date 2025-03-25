@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifasik1&show_icons=true&locale=en&layout=compact" alt="elifasik1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifasik1&" alt="elifasik1" /></p>
