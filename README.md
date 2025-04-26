@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Elif Aşık</h1>
 <h3 align="center">Computer Engineering Student | Iskenderun Teknik University</h3>
 
@@ -27,7 +23,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 &nbsp;
-<a href="elifasik25@gmail.com" target="_blank">
+<a href="mailto:elifasik25@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
 </p>
@@ -66,7 +62,6 @@
 </p>
 
 ---
-
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
