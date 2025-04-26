@@ -27,7 +27,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 &nbsp;
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="elifasik25@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
 </p>
@@ -67,13 +67,6 @@
 
 ---
 
-<h3 align="left">📂 Featured Projects:</h3>
-<ul>
-  <li><a href="https://github.com/elifasik1/project-name1" target="_blank">Project 1 - Short Description</a></li>
-  <li><a href="https://github.com/elifasik1/project-name2" target="_blank">Project 2 - Short Description</a></li>
-</ul>
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
