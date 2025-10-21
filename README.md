@@ -5,7 +5,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p align="left">
-🌟 3rd-year Computer Engineering student at Iskenderun Teknik University. <br>
+🌟 4rd-year Computer Engineering student at Iskenderun Teknik University. <br>
 🖥️ Passionate about software development, artificial intelligence, and problem-solving. <br>
 🚀 Always eager to learn new technologies and improve my skills.<br>
 🎯 Interested in Java, C#, and backend development.<br>
