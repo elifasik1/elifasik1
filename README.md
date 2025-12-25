@@ -60,13 +60,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifasik1&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifasik1&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
