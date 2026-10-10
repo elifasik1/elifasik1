@@ -1,164 +1,222 @@
-# Hi 👋, I'm Elif Aşık
+<!-- 🌸 ELIF AŞIK | SOFT DEVELOPER README 🌸 -->
 
-### Junior Backend Developer | C#/.NET | ASP.NET Core | REST APIs
+<h1 align="center">🌷 Elif Aşık</h1>
 
-I build secure, maintainable backend applications and explore software architecture through hands-on projects. My primary focus is **C#/.NET, Clean Architecture, API design, databases, and reliable service integration**.
+<h3 align="center">Junior Backend Developer ♡</h3>
 
-I also work with **Java/Spring Boot** and **TypeScript/NestJS**, and enjoy building full-stack applications from backend services to React interfaces.
+<p align="center">
+  <strong>C# · .NET · ASP.NET Core · Clean Architecture</strong>
+</p>
+
+<p align="center">
+  Building reliable backend systems, one project at a time.
+  <br/>
+  <em>Learning, building, testing & growing ✨</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-.NET%20%26%20C%23-d98aa6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20CQRS-c7a1d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Every%20Day-e8a5b5?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/elifasik1">
+    <img src="https://komarev.com/ghpvc/?username=elifasik1&label=Profile%20visitors&color=d98aa6&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
+---
+
+## 🎀 A Little About Me
+
+Hi! I'm Elif, a Computer Engineering graduate who enjoys turning ideas into working software.
+
+My main focus is **backend development with C#/.NET**, especially API design, Clean Architecture, database systems, security, and testing.
+
+I believe the best way to learn software engineering is to build things, understand the decisions behind them, test their behavior, and keep improving. ♡
 
 - 🎓 Computer Engineering graduate — İskenderun Technical University
-- 💼 Backend development experience at ThinkBro; currently continuing my backend journey at NDM Software
-- 🏗️ Interested in Clean Architecture, CQRS, event-driven systems, and automated testing
-- 🧪 Learning by building, testing, documenting, and improving real projects
-- ✍️ Writing about my backend development journey on Medium
+- 💻 Backend development experience at ThinkBro and NDM Software
+- 🌸 Currently exploring .NET, NestJS, and Java/Spring Boot
+- 🧪 Interested in automated testing, event-driven systems, and reliable APIs
+- 🤖 Exploring AI-assisted development and LLM integrations
+- 📚 Documenting my learning journey through technical writing
 
 ---
 
-## 🛠️ Tech Stack
+## 🩷 My Tech Garden
 
-**Backend & Languages**
+### 🌷 Backend & Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8064A2?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-B18AC7?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-**Architecture & Backend Engineering**
+### 🏛️ Architecture & API Design
 
-- Clean Architecture, layered architecture, SOLID
+- Clean Architecture & layered architecture
 - CQRS and MediatR
-- RESTful API design and integration
-- Entity Framework Core and Prisma
+- SOLID principles
+- RESTful APIs and service integration
+- Entity Framework Core & Prisma
 - JWT authentication and role-based access control (RBAC)
-- Event-driven communication and service integration
 
-**Databases & Messaging**
+### 🧁 Databases & Messaging
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6486B8?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D96B75?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-E6A15B?style=flat-square&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5D91B8?style=flat-square&logo=mysql&logoColor=white)
 
-**Testing, DevOps & Tools**
+### 🧪 Testing & Developer Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![xUnit](https://img.shields.io/badge/xUnit-8B78B8?style=flat-square)
+![Moq](https://img.shields.io/badge/Moq-BB91BD?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-579DD4?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D97862?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-658FD0?style=flat-square&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-8BAA72?style=flat-square&logo=swagger&logoColor=white)
 
-- xUnit, Moq, unit and integration testing
-- CI pipelines and automated build verification
-- React, TypeScript, HTML, and CSS
-- Microsoft Power Automate
+Also exploring React, TypeScript, HTML/CSS, Power Automate, and AI/LLM API integrations.
 
 ---
 
-## 🚀 Featured Projects
+## 🌸 Projects I'm Proud Of
 
-### 1. Order Service — Event-Driven Backend
+### 💌 Order Service — Event-Driven Backend
 
-A backend project exploring service separation, asynchronous communication, security, and reliability.
+My main backend engineering project, focused on service communication, security, testing, and reliability.
 
-**Key features**
+**Built with:** C#, .NET, PostgreSQL, Redis, RabbitMQ, MassTransit, xUnit, Moq, Docker, GitHub Actions.
+
 - Separate Order and Notification services
-- RabbitMQ and MassTransit for asynchronous messaging
+- Asynchronous communication using RabbitMQ and MassTransit
 - Clean Architecture and CQRS
 - JWT authentication and role-based authorization
-- Redis caching
-- Optimistic concurrency control
-- Unit and integration testing with xUnit and Moq
-- CI pipeline with GitHub Actions
+- Redis caching and optimistic concurrency control
+- Unit and integration testing
+- Automated CI pipeline with GitHub Actions
 
-**Focus:** Event-driven architecture, reliable service communication, testing, and maintainable backend design.
+**What I learned:** Designing service boundaries, handling asynchronous workflows, and testing critical application behavior.
 
-### 2. SAAP — Secure API Application Platform
+### 🎀 SAAP — Secure API Application Platform
 
-A full-stack application focused on API security, monitoring, and auditability.
+A full-stack project exploring API security, auditing, and backend reliability.
 
-**Tech stack:** .NET 10, ASP.NET Core, React, TypeScript, PostgreSQL, Redis, Docker.
+**Built with:** .NET 10, ASP.NET Core, React, TypeScript, PostgreSQL, Redis.
 
-**Key features**
 - REST API development with Clean Architecture
-- JWT authentication and role-based access control
+- JWT authentication and RBAC
 - Rate limiting and audit logging
-- Frontend integration with backend APIs
-- Containerized development and CI automation
+- Frontend/backend integration
+- Docker-based development and CI automation
 
-### 3. EventSphere — Event & Ticket Management
+### 🎟️ EventSphere — Event & Ticket Management
 
-A full-stack event management project combining backend architecture with a React and TypeScript interface.
+A full-stack application combining backend engineering with a React and TypeScript interface.
 
-**Tech stack:** ASP.NET Core, CQRS/MediatR, PostgreSQL, React, TypeScript.
+**Built with:** ASP.NET Core, CQRS/MediatR, PostgreSQL, React, TypeScript.
 
-**Focus areas**
-- REST APIs and application architecture
+- REST API and application architecture
 - Authentication and authorization
 - Data consistency and optimistic concurrency
 - Frontend/backend integration
 
-### 4. Digital Agriculture Platform — TÜBİTAK 2209-A
+### 🌱 Digital Agriculture Platform — TÜBİTAK 2209-A
 
 An academic project supported by the TÜBİTAK 2209-A research program.
 
-**Tech stack:** Java, Spring Boot, React, MySQL, Progressive Web App (PWA).
+**Built with:** Java, Spring Boot, React, MySQL, PWA.
 
-Contributed to full-stack development and worked on application features, backend services, and role-based access control.
+- Full-stack application development
+- Backend services and REST APIs
+- Role-based access control
+- Digital agriculture use cases
+
+### ✨ LUMA — AI Future Companion
+
+An ongoing hackathon project exploring how AI can turn a person's imagined future into practical steps they can take today.
+
+**Built with:** ASP.NET Core, C#, PostgreSQL, Next.js, React, TypeScript, Gemini.
+
+- Dream discovery and personalized Future Profile
+- AI-assisted future scenario generation
+- Persistent dream data and adaptive visual themes
+- Provider fallback for resilience during temporary AI service failures
+
+**Focus:** AI orchestration, API design, persistence, and turning an ambitious product idea into a working application.
 
 ---
 
-## 💼 Experience
+## 💼 My Development Journey
 
 **Backend Developer Intern — NDM Software**  
 *September 2026 – Present*
 
-Continuing my backend development journey with TypeScript, NestJS, Prisma, and API development.
+Continuing to develop my backend skills with TypeScript, NestJS, Prisma, and API development.
 
 **Backend Developer Intern — ThinkBro**  
 *February 2026 – May 2026*
 
-Contributed to two enterprise projects involving .NET backend development, REST APIs, Clean Architecture, Entity Framework Core, PostgreSQL, and authentication/authorization.
+Contributed to two enterprise backend projects involving ASP.NET Core, REST APIs, Clean Architecture, Entity Framework Core, PostgreSQL, and authentication/authorization.
 
 **IT Intern — Çimko Cement and Concrete**  
 *July 2025 – September 2025*
 
-Worked on business process automation using Microsoft Power Automate and supported IT and network infrastructure operations.
+Worked on business process automation using Microsoft Power Automate and supported IT and network infrastructure activities.
 
 ---
 
-## ✍️ Technical Writing
+## 📚 Backend Günlüğü
 
-I document my learning process, technical decisions, and lessons learned while building backend applications.
+I write about what I build, what I learn, and the engineering decisions behind my projects.
 
-📖 **Medium:** [Backend Development Journal](https://medium.com/@elifasik25)
+My **Backend Günlüğü** series covers topics such as:
 
-💡 Topics include software architecture, API development, testing, CI pipelines, authentication, and backend engineering practices.
+- Clean Architecture and CQRS
+- REST API development
+- Authentication and refresh tokens
+- Unit and integration testing
+- Test coverage and edge cases
+- CI pipelines and continuous improvement
+
+🌷 **Read my articles:** [Medium — @elifasik25](https://medium.com/@elifasik25)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 A Peek at My GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elifasik1&show_icons=true&hide_border=true" alt="Elif's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifasik1&layout=compact&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elifasik1&show_icons=true&hide_border=true&title_color=d98aa6&icon_color=d98aa6&text_color=777777&bg_color=fff9fb" alt="Elif's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifasik1&layout=compact&hide_border=true&title_color=d98aa6&text_color=777777&bg_color=fff9fb" alt="Most used languages" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 💌 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/elif-a%C5%9F%C4%B1k-4182a3275/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/elifasik1">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20my%20projects-BA8DB8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://medium.com/@elifasik25">
-    <img src="https://img.shields.io/badge/Medium-Read_My_Writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Read%20my%20articles-D98AA6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/elif-a%C5%9F%C4%B1k-4182a3275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-C69ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:elifasik25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20hello-E7A0B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-> *Always learning. Always building. Always improving.* 🚀
+<p align="center">
+  <em>♡ Always learning, always building, always growing. ♡</em>
+</p>
+
+<p align="center">🌷 ☕ 💻 ✨</p>
