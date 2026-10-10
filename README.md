@@ -1,6 +1,6 @@
 <!-- 🌸 ELIF AŞIK | SOFT DEVELOPER README 🌸 -->
 
-<h1 align="center">🌷 Elif Aşık</h1>
+<h1 align="center"> Elif Aşık</h1>
 
 <h3 align="center">Junior Backend Developer ♡</h3>
 
